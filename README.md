@@ -1,1 +1,1 @@
-# Manager Dates for patients
+# Manager dates for patients

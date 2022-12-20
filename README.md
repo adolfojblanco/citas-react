@@ -1,4 +1,4 @@
 # Manager dates for patients
-### Tecnologies
+### technologies
 -React
 -TailwindCss
